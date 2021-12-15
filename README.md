@@ -30,17 +30,10 @@
 
 ## 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XtomiSN/MusicAndVideoPlayer)
-
-
-## 📚 Variabel Yang Dibutuhkan
-- `API_ID` - Dapatkan Dari [my.telegram.org](https://my.telegram.org)
-- `API_HASH` - Dapatkan Dari [my.telegram.org](https://my.telegram.org)
-- `SESSION` - Sesi String Pyrogram. Dapatkan String Dari [Sini](https://replit.com/@GoodBoysExe/string-session?lite=1&outputonly=1)
-- `SUDO_USER` - ID Akun Telegram Yang Digunakan Sebagai Admin
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Skyzu/VideoPlayer)
 
 
 ## KREDIT ✨
-- [Group Music Random](https://t.me/GroupMusicRandom)
+- [Group support](https://t.me/skyzusupport)
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Laky](https://github.com/Laky-64) for [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
